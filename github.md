@@ -12,4 +12,4 @@ we can create a list **List is top class** *as well as top notch*
 Another para
 >**Note** this is note
 
-you can also crewate links in .md files like [PWSKILLS](www.pwskills.com)
+you can also crewate links in .md files like [PWSKILLS](https://www.pwskills.com/)
